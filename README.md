@@ -6,10 +6,13 @@
 ### Giriş Ekranı
 <img src="images/login_page.png"  height="400"  >
 
-### Profil 
+### Kayıt Ekranı
+<img src="images/register_page.png"  height="400"  >
+
+### Profilim
 <img src="images/profil_page.png"  height="400"  >
 
-### Ürünler
+### Kampanyalar
 <img src="images/offer_page.png"  height="400"  >
 
 ### Aradıklarım
@@ -18,7 +21,7 @@
 ### Beğendiklerim
 <img src="images/like_page.png"  height="400"  >
 
-### Satın Alınanlar
+### Sepete Eklediklerim
 <img src="images/cart_page.png"  height="400"  >
 
 ### Kategorilerim
