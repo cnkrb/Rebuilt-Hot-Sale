@@ -18,11 +18,24 @@
 ### Aradıklarım
 <img src="images/search_page.png"  height="400"  >
 
+### Aradıklarım Bilgilendiricisi
+<img src="images/search_info.png"  height="400"  >
+
 ### Beğendiklerim
 <img src="images/like_page.png"  height="400"  >
+
+### Beğendiklerim Bilgilendiricisi
+<img src="images/like_info.png"  height="400"  >
 
 ### Sepete Eklediklerim
 <img src="images/cart_page.png"  height="400"  >
 
+
+### Sepete Eklediklerim Bilgilendiricisi
+<img src="images/cart_info.png"  height="400"  >
+
 ### Kategorilerim
 <img src="images/category_page.png"  height="400"  >
+
+### Kategorilerim Bilgilendiricisi
+<img src="images/category_info.png"  height="400"  >
